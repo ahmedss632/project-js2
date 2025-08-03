@@ -1,0 +1,31 @@
+    body {
+      background: #af2e2e;
+    }
+    .app-container {
+      max-width: 800px;
+      margin: 40px auto;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+      overflow: hidden;
+    }
+    .sidebar {
+      width: 200px;
+      background: #f8f9fa;
+      padding: 20px;
+    }
+    .task-list {
+      padding: 20px;
+    }
+    .task-item {
+      background: #f1f1f1;
+      padding: 10px 15px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .modal-content {
+      border-radius: 12px;
+    }
